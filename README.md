@@ -1,5 +1,8 @@
 # Python Network Programming Training Series - [Cyberpunk Society]
 
+![cyberpunck,_line,_collage,_statu](https://github.com/BrsDincer/Python-Network-Programming/assets/81470496/d6047a63-17e9-4b9a-aca8-79c7aa619e91)
+
+
 ### Description
 
 This series is designed to help you master the art of network programming in Python. With Python's rich ecosystem of libraries and tools, you have a powerful ally in your journey to becoming a proficient network programmer.
