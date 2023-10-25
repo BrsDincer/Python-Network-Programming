@@ -36,6 +36,5 @@ class ModifyBufferSize(object):
   def Run(self):
     socketEngine = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
     self.Modify(socketEngine)
-
 if __name__ == "__main__":
   ModifyBufferSize().Run()
